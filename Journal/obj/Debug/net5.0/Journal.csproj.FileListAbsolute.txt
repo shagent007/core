@@ -1,0 +1,12 @@
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\bin\Debug\net5.0\Journal.deps.json
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\bin\Debug\net5.0\Journal.dll
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\bin\Debug\net5.0\ref\Journal.dll
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\bin\Debug\net5.0\Journal.pdb
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.csprojAssemblyReference.cache
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.AssemblyInfoInputs.cache
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.AssemblyInfo.cs
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.csproj.CoreCompileInputs.cache
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.dll
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\ref\Journal.dll
+C:\Users\Shaiyrbek\Desktop\Cbase\Journal\obj\Debug\net5.0\Journal.pdb
