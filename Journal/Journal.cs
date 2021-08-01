@@ -8,8 +8,8 @@ namespace Journal
     {
         private ChildrenController controller = new ChildrenController();
         private List<string> commands = new List<string>() 
-        { 
-            "getAll",
+        {
+            "find",
             "add",
             "exit"
         };
@@ -19,11 +19,11 @@ namespace Journal
             string _command;
             do
             {
-                _command = Ask.ItemInStringList("Введите команду", commands);
+                _command = Ask.ItemInStringList("Введите команду (find/add/exit): ", commands);
                 switch (_command)
                 {
-                    case "getAll":
-                        controller.GetAll();
+                    case "find":
+                        controller.Find();
                         break;
                     case "add":
                         controller.Add();
